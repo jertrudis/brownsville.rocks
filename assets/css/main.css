@@ -8601,3 +8601,8 @@ input, select, textarea {
 			#wrapper.divided > .invert:first-child {
 				box-shadow: none !important;
 			}
+
+.thumbelina {
+	height: 250px;
+	width: auto;
+}
